@@ -1,0 +1,5 @@
+package com.lfronza.projetospring.services;
+
+public class CategoriaService {
+
+}
