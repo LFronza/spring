@@ -1,0 +1,11 @@
+package com.lfronza.projetospring.domain;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Estado {
+
+	private Integer id;
+	private String Nome;
+	private List<Cidade> cidades = new ArrayList<>();
+}
