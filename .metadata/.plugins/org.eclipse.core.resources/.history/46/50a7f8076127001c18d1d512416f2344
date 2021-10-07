@@ -1,0 +1,5 @@
+package com.lfronza.projetospring.domain;
+
+public class Cliente {
+
+}

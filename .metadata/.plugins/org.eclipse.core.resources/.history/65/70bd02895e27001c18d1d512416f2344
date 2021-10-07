@@ -1,0 +1,5 @@
+package com.lfronza.projetospring.domain.enums;
+
+public enum TipoCliente {
+
+}
